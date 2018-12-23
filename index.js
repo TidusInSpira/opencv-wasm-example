@@ -31,7 +31,7 @@ function startCamera() {
       video: true
     },
     function(stream) {
-      video.src = URL.createObjectURL(stream);
+      video.srcObject = stream;
       video.play();
     },
     function(error) {
