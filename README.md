@@ -1,5 +1,9 @@
 # 使用OpenCV在前端进行人脸检测的实践
 
+## 预览
+
+https://tidusinspira.github.io/opencv-wasm/
+
 ## 运行
 
 ```bash
