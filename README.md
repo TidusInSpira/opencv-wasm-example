@@ -2,7 +2,7 @@
 
 ## 预览
 
-https://tidusinspira.github.io/opencv-wasm/
+https://tidusinspira.github.io/opencv-wasm-example/
 
 ## 运行
 
